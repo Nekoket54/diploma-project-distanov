@@ -172,7 +172,7 @@ header{
 }
 
 .menu-wrapper{
-    background-image: url(/images/records.jpg);
+    background-image: url(../images/records.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     opacity: 0.8;
